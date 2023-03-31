@@ -45,7 +45,7 @@ Examples of each route
 ![GET Route 2](./assets/Screenshot2CategoryByID.png)  
 ![POST Route](./assets/Screenshot3NewCategory.png)  
 ![PUT Route](./assets/Screenshot4UpdateCategory.png)
-![DELETE Route](./assets/Screenshot5DeleteCategory.png)  
+![DELETE Route](./assets/Screenshot5DeleteCategory.png)      
 
 
 ## Technologies
