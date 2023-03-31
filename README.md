@@ -36,13 +36,16 @@ Run 'npm start' which will sync the database and start the server.
 
 
 ## Demo
-Live URL: <a href="deployed link">Deployment Link</a>
-
-<!-- in the parentheses is just the relative path to the screenshot-->
-![alt text](assets/images/screenshot.png)
+Demo URL: <a href="https://vimeo.com/813422897">Full Video</a>
 
 
 # Screenshots
+Examples of each route  
+![GET Route 1](./assets/Screenshot1AllCategories.png)  
+![GET Route 2](./assets/Screenshot2CategoryByID.png)  
+![POST Route](./assets/Screenshot3NewCategory.png)  
+![PUT Route](./assets/Screenshot4UpdateCategory.png)
+![DELETE Route](./assets/Screenshot5DeleteCategory.png)  
 
 
 ## Technologies
