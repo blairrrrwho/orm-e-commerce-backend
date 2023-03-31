@@ -1,7 +1,8 @@
 node_modules
 .env
 .DS_Store
-
+.mp4
+FullDemoVid.mp4 
 
 node_modules
 .vscode
